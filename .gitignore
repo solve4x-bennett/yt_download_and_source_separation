@@ -2,3 +2,5 @@ yt_download_and_source_separation/
 data/
 .env
 compose.yaml
+.DS_Store
+!**/__pycache__/
